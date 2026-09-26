@@ -1,6 +1,6 @@
 
 
-#Traffic Sign Classification with MLP and SVM
+# Traffic Sign Classification with MLP and SVM
 A machine learning project comparing a Multilayer Perceptron (MLP) and Support Vector Machine (SVM) for multiclass traffic sign recognition across 43 traffic-sign classes.
 The project focuses on building a fair and reproducible comparison between both models using the same preprocessing pipeline, group-aware data splitting, hyperparameter tuning, and final evaluation on an untouched test set.
 Key Results
